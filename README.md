@@ -45,6 +45,6 @@ I am a passionate Computer Engineering student minoring in Mathematics. I would 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=visual_studio_dark" alt="Top Langs" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iemuslu&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemuslu&layout=compact&theme=visual_studio_dark" alt="Top Langs" width="300"/>
 </p>
