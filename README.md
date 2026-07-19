@@ -27,8 +27,8 @@ I am a passionate Computer Engineering student minoring in Mathematics. I would 
 * NumPy (Scientific Computing & Data Analysis)
 
 #### Office & Typesetting
-*LaTeX
-*Microsoft Office Programs
+* LaTeX
+* Microsoft Office Programs
 
 #### Core Subjects:
 * Data Structures
