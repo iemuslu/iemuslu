@@ -6,7 +6,7 @@ I am a passionate Computer Engineering student minoring in Mathematics. I would 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision and Computer Graphics**
 - 📚 Learning more about **Quantum Computing**
 - 🧠 My math minor focus includes **Linear Algebra, Calculus and Real Analysis** till now.
 - 📫 How to reach me: **eylulmuslubas@gmail.com** or **https://www.linkedin.com/in/ikbal-eylul-muslubas/**
@@ -16,12 +16,19 @@ I am a passionate Computer Engineering student minoring in Mathematics. I would 
 ### Tech Stack:
 
 #### Programming Languages:
-* C++
-* C
+* C/C++
 * Python
+* Haskell
+* Verilog
 
 #### Frameworks & Tools:
 * Qt (C++ GUI & Application Development)
+* OpenGL (Computer Graphics API)
+* NumPy (Scientific Computing & Data Analysis)
+
+#### Office & Typesetting
+*LaTeX
+*Microsoft Office Programs
 
 #### Core Subjects:
 * Data Structures
