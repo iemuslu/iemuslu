@@ -41,6 +41,13 @@ I am a passionate Computer Engineering student minoring in Mathematics. I would 
 
 ---
 
+### Work Experience
+- **Computer Engineering Intern** @ *SimTek Simulation Technologies* (July 2026 - Present)
+  - Developed real-time [2D/3D] graphics applications in Visual Studio using C++ and OpenGL, managing the rendering pipeline, vertex buffers, and custom shaders to optimize visual performance.
+
+
+---
+
 ### 👥 Leadership & Club Experience
 - **Software Coordinator** @ *METUOR SPACE* (Oct 2025 - June 2026)
   - Leading a team of developers, managing project timelines, and coordinating software deliverables for club projects.
